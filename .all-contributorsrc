@@ -8,10 +8,10 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "seniorcoder72",
-      "name": "Senior Developer",
+      "login": "marksantiago2909",
+      "name": "Mark Santiago",
       "avatar_url": "https://avatars.githubusercontent.com/u/132613676?v=4",
-      "profile": "https://github.com/seniorcoder72",
+      "profile": "https://github.com/marksantiago2909",
       "contributions": [
         "code",
         "content",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "login": "LouisWinkler",
-      "name": "LouisWinkler",
+      "login": "imcrazysteven",
+      "name": "Steven Leal",
       "avatar_url": "https://avatars.githubusercontent.com/u/138194633?v=4",
-      "profile": "https://github.com/LouisWinkler",
+      "profile": "https://github.com/imcrazysteven",
       "contributions": [
         "code",
         "content",
@@ -51,5 +51,5 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "trademarktoday-nextjs",
-  "projectOwner": "seniorcoder72"
+  "projectOwner": "imcrazysteven"
 }

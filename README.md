@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https://dodger213.github.io/">Trade-Mark-Today</a> - v1.2
+	<a href="https://imcrazysteven.github.io/">Trade-Mark-Today</a> - v1.2
 	<p align="center">
 		<img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" /> 
 		<img alt="nodejs" src="https://badgen.net/badge/node/js?icon=github" /> 
@@ -18,34 +18,32 @@
 <br/>
 
 <div align="center">
-	<!-- <a href="https://github.com/dodger213/Trade-Mark-Today">
-		<img src="https://avatars.githubusercontent.com/u/132613676?v=4" alt="Logo" width="200" height="200"/>
-	</a> -->
-	<h3 align="center">Mitsuru Kudo (dodger213) </h3>
+
+	<h3 align="center">Steven Leal(imcrazysteven) </h3>
 	<p align="center">
 		Trademarktoday supports free initial trade mark check in minutes and registration of your trademark for Australia. Please kick off the process of protecting your brand and have some fun while doing it!
 		<br/>
-        This project is maintained by <a href='https://dodger213.github.io'>@dodger213</a>
+        This project is maintained by <a href='https://imcrazysteven.github.io'>@imcrazysteven</a>
 		<br/>
         <strong>Don't forget to star ⭐ this repository.</strong>
         <br/>
-		<a href="https://dodger213.github.io">Explore the docs »</a>
+		<a href="https://imcrazysteven.github.io">Explore the docs »</a>
 		<br/>
 		<br/>
 		<a href="https://trademarktoday.com.au">Visit Site</a>
 		·
-		<a href="https://github.com/dodger213/Trade-Mark-Today/issues/new?assignees=dodger213&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
+		<a href="https://github.com/imcrazysteven/Trade-Mark-Today/issues/new?assignees=imcrazysteven&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
 		·
-		<a href="https://github.com/dodger213/Trade-Mark-Today/issues/new?assignees=dodger213&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
+		<a href="https://github.com/imcrazysteven/Trade-Mark-Today/issues/new?assignees=imcrazysteven&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	<p align="center">
-		<img alt="nodejs" src="https://img.shields.io/github/contributors/dodger213/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/forks/dodger213/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/commits-since/dodger213/Trade-Mark-Today/v1.0.0" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/commit-activity/t/dodger213/Trade-Mark-Today" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/stars/dodger213/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/issues/dodger213/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
-		<img alt="nodejs" src="https://img.shields.io/github/repo-size/dodger213/Trade-Mark-Today.svg?styles/default/yes.svg)" />  
+		<img alt="nodejs" src="https://img.shields.io/github/contributors/imcrazysteven/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
+		<img alt="nodejs" src="https://img.shields.io/github/forks/imcrazysteven/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
+		<img alt="nodejs" src="https://img.shields.io/github/commits-since/imcrazysteven/Trade-Mark-Today/v1.0.0" /> 
+		<img alt="nodejs" src="https://img.shields.io/github/commit-activity/t/imcrazysteven/Trade-Mark-Today" /> 
+		<img alt="nodejs" src="https://img.shields.io/github/stars/imcrazysteven/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
+		<img alt="nodejs" src="https://img.shields.io/github/issues/imcrazysteven/Trade-Mark-Today.svg?styles/default/yes.svg" /> 
+		<img alt="nodejs" src="https://img.shields.io/github/repo-size/imcrazysteven/Trade-Mark-Today.svg?styles/default/yes.svg)" />  
 	</p>
 </div>
 
@@ -53,10 +51,10 @@
 
 This is for <a href='https://trademarktoday.com.au'>trademarktoday.com.au</a>
 
-<!-- ![Trademarktoday](https://github.com/dodger213/Trade-Mark-Today/blob/master/public/01.png?raw=true)
-![Trademarktoday](https://github.com/dodger213/Trade-Mark-Today/blob/master/public/02.png?raw=true) -->
-![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)
-![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)
+<!-- ![Trademarktoday](https://github.com/imcrazysteven/Trade-Mark-Today/blob/master/public/01.png?raw=true)
+![Trademarktoday](https://github.com/imcrazysteven/Trade-Mark-Today/blob/master/public/02.png?raw=true) -->
+![Trademarktoday](https://github.com/imcrazysteven/trademarktoday-nextjs/blob/master/public/01.png?raw=true)
+![Trademarktoday](https://github.com/imcrazysteven/trademarktoday-nextjs/blob/master/public/02.png?raw=true)
 
 ## Built With :package:
 <p>
@@ -88,11 +86,11 @@ This is for <a href='https://trademarktoday.com.au'>trademarktoday.com.au</a>
 - Clone the repository :
     - With HTTPS:
       ```bash
-      git clone https://github.com/dodger213/Trade-Mark-Today.git
+      git clone https://github.com/imcrazysteven/Trade-Mark-Today.git
       ```
     - With SSH:
       ```bash
-      git@github.com:dodger213/Trade-Mark-Today.git
+      git@github.com:imcrazysteven/Trade-Mark-Today.git
       ```
       
 - Navigate to working Directory and **master** branch
@@ -129,7 +127,7 @@ This is for <a href='https://trademarktoday.com.au'>trademarktoday.com.au</a>
 
 Contributions, Issues and Feature requests are Welcome!
 
-Feel free to check the [Issues page](https://github.com/dodger213/Trade-Mark-Today/issues/).
+Feel free to check the [Issues page](https://github.com/imcrazysteven/Trade-Mark-Today/issues/).
 
 
 ## Contributors ✨
@@ -143,8 +141,8 @@ Feel free to check the [Issues page](https://github.com/dodger213/Trade-Mark-Tod
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dodger213"><img src="https://avatars.githubusercontent.com/u/144204636?v=4" width="100px;" alt="Mitsuru Kudo"/><br /><sub><b>Mitsuru Kudo</b></sub></a><br /><a href="https://github.com/dodger213/Trade-Mark-Today/commits?author=dodger213" title="Code">💻</a> <a href="#content-dodger213" title="Content">🖋</a> <a href="https://github.com/dodger213/Trade-Mark-Today/commits?author=dodger213" title="Documentation">📖</a> <a href="#data-dodger213" title="Data">🔣</a> <a href="#example-dodger213" title="Examples">💡</a> <a href="#ideas-dodger213" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-dodger213" title="Project Management">📆</a> <a href="https://github.com/dodger213/Trade-Mark-Today/pulls?q=is%3Apr+reviewed-by%3Adodger213" title="Reviewed Pull Requests">👀</a> <a href="#tool-dodger213" title="Tools">🔧</a> <a href="#tutorial-dodger213" title="Tutorials">✅</a> <a href="#video-dodger213" title="Videos">📹</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BTC415"><img src="https://avatars.githubusercontent.com/u/133281370?v=4" width="100px;" alt="BTC415"/><br /><sub><b>Epic Dev</b></sub></a><br /><a href="https://github.com/dodger213/Trade-Mark-Today/commits?author=BTC415" title="Code">💻</a> <a href="#content-BTC415" title="Content">🖋</a> <a href="https://github.com/dodger213/Trade-Mark-Today/commits?author=BTC415" title="Documentation">📖</a> <a href="#data-BTC415" title="Data">🔣</a> <a href="#example-BTC415" title="Examples">💡</a> <a href="#ideas-BTC415" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-BTC415" title="Project Management">📆</a> <a href="https://github.com/dodger213/Trade-Mark-Today/pulls?q=is%3Apr+reviewed-by%3ABTC415" title="Reviewed Pull Requests">👀</a> <a href="#tool-BTC415" title="Tools">🔧</a> <a href="#tutorial-BTC415" title="Tutorials">✅</a> <a href="#video-BTC415" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/imcrazysteven"><img src="https://avatars.githubusercontent.com/u/144204636?v=4" width="100px;" alt="Steven Leal"/><br /><sub><b>Steven Leal</b></sub></a><br /><a href="https://github.com/imcrazysteven/Trade-Mark-Today/commits?author=imcrazysteven" title="Code">💻</a> <a href="#content-imcrazysteven" title="Content">🖋</a> <a href="https://github.com/imcrazysteven/Trade-Mark-Today/commits?author=imcrazysteven" title="Documentation">📖</a> <a href="#data-imcrazysteven" title="Data">🔣</a> <a href="#example-imcrazysteven" title="Examples">💡</a> <a href="#ideas-imcrazysteven" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-imcrazysteven" title="Project Management">📆</a> <a href="https://github.com/imcrazysteven/Trade-Mark-Today/pulls?q=is%3Apr+reviewed-by%3Aimcrazysteven" title="Reviewed Pull Requests">👀</a> <a href="#tool-imcrazysteven" title="Tools">🔧</a> <a href="#tutorial-imcrazysteven" title="Tutorials">✅</a> <a href="#video-imcrazysteven" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/marksantiago2909"><img src="https://avatars.githubusercontent.com/u/133281370?v=4" width="100px;" alt="marksantiago2909"/><br /><sub><b>Epic Dev</b></sub></a><br /><a href="https://github.com/imcrazysteven/Trade-Mark-Today/commits?author=marksantiago2909" title="Code">💻</a> <a href="#content-marksantiago2909" title="Content">🖋</a> <a href="https://github.com/imcrazysteven/Trade-Mark-Today/commits?author=marksantiago2909" title="Documentation">📖</a> <a href="#data-marksantiago2909" title="Data">🔣</a> <a href="#example-marksantiago2909" title="Examples">💡</a> <a href="#ideas-marksantiago2909" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-marksantiago2909" title="Project Management">📆</a> <a href="https://github.com/imcrazysteven/Trade-Mark-Today/pulls?q=is%3Apr+reviewed-by%3Amarksantiago2909" title="Reviewed Pull Requests">👀</a> <a href="#tool-marksantiago2909" title="Tools">🔧</a> <a href="#tutorial-marksantiago2909" title="Tutorials">✅</a> <a href="#video-marksantiago2909" title="Videos">📹</a></td>
     </tr>
   </tbody>
 </table>
@@ -161,4 +159,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
-Copyright &copy; 2023 Senior Coder. All rights reserved. 
+Copyright &copy; 2023. All rights reserved. 

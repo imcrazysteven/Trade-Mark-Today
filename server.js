@@ -30,7 +30,6 @@ app.prepare().then(() => {
   console.log('after connecting...')
   server.all('*', (req, res) => {
     return handle(req, res);
-    // res.send("<h1>This site is temporarily down.</h1> <p>The website developer is waiting response from <b>Syed Mosawi.</b></p><p> Please contact developer.</p> Skype or telegram is available.<i> louiswinkler72@gmail.com</i>");
   });
   // server.listen(process.env.PORT, (err) => {
   //   if (err) throw err;

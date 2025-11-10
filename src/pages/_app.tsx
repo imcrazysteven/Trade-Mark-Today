@@ -21,7 +21,7 @@ function MyApp({ Component, pageProps }: AppPropsWithLayout) {
   // Use the layout defined at the page level, if available
   const getLayout = Component.getLayout || ((page) => page)
 
-  const title = `Trademark Today Filing By seniorcoder72`
+  const title = `Trademark Today Filing`
   const description = 'Trademarktoday supports free initial trade mark check in minutes and registration of your trademark for Australia. Please kick off the process of protecting your brand and have some fun while doing it!'
   const imageWidth = '1920'
   const imageHeight = '960'
